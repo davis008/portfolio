@@ -1,6 +1,6 @@
 # portfolio
 Portfolio Sample using Next.Js
-
+![website](https://user-images.githubusercontent.com/13285377/110686031-fa36e300-81ef-11eb-963e-00e51ed77038.PNG)
 ### This Projects uses NextJs to build a sample Portfolio app
 
 ### Some of the concepts Captured include:
